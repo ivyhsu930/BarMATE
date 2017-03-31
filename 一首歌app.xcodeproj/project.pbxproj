@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F40625121E8D57C30073C509 /* SelectWineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40625111E8D57C30073C509 /* SelectWineViewController.swift */; };
 		F4C516FE1E7EBC96007F69EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C516FD1E7EBC96007F69EA /* AppDelegate.swift */; };
 		F4C517001E7EBC96007F69EA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C516FF1E7EBC96007F69EA /* ViewController.swift */; };
 		F4C517031E7EBC96007F69EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4C517011E7EBC96007F69EA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F40625111E8D57C30073C509 /* SelectWineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectWineViewController.swift; sourceTree = "<group>"; };
 		F4C516FA1E7EBC96007F69EA /* 一首歌app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "一首歌app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4C516FD1E7EBC96007F69EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4C516FF1E7EBC96007F69EA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				F4C516FD1E7EBC96007F69EA /* AppDelegate.swift */,
 				F4C516FF1E7EBC96007F69EA /* ViewController.swift */,
 				F4C517011E7EBC96007F69EA /* Main.storyboard */,
+				F40625111E8D57C30073C509 /* SelectWineViewController.swift */,
 				F4C517041E7EBC96007F69EA /* Assets.xcassets */,
 				F4C517061E7EBC96007F69EA /* LaunchScreen.storyboard */,
 				F4C517091E7EBC96007F69EA /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F40625121E8D57C30073C509 /* SelectWineViewController.swift in Sources */,
 				F4C517001E7EBC96007F69EA /* ViewController.swift in Sources */,
 				F4C516FE1E7EBC96007F69EA /* AppDelegate.swift in Sources */,
 			);
@@ -297,6 +301,7 @@
 				F4C5170E1E7EBC96007F69EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
